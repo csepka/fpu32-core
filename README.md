@@ -79,4 +79,4 @@ Regression checks directed cases (e.g. 1+1=2, 2.5−1.25=1.25, (−1)×(−1)=1)
 
 ## License
 
-MIT. Add your name to `LICENSE` if you publish. The adder and multiplier cores are derived from work by Jonathan P Dawson (2013); see headers in `rtl/adder/adder.v` and `rtl/multiplier/multiplier.v`.
+MIT. The adder and multiplier cores are derived from work by Jonathan P Dawson (2013); see headers in `rtl/adder/adder.v` and `rtl/multiplier/multiplier.v`.
