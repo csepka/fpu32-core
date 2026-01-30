@@ -1,0 +1,20 @@
+# Build
+build/
+*.vvp
+*.vcd
+
+# Debug / IDE
+debug/
+.DS_Store
+*.ron
+
+# Adder / multiplier local test artifacts (see rtl/adder, rtl/multiplier)
+stim_a
+stim_b
+stim_z
+resp_z
+test_bench_tb
+
+# Compiled binaries (e.g. rtl/*/c_test/test)
+rtl/adder/c_test/test
+rtl/multiplier/c_test/test
